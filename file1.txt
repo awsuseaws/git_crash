@@ -1,10 +1,11 @@
 Commit 1
-
+Adding in between lines
 Added .gitignore
-
+Adding in between lines
 Filling the spaces
 adding lines
-
+Adding in between lines
 Adding lines in the main branch
-
+Adding in between lines
 Hello from file1.txt
+Adding in between lines
