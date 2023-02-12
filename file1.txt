@@ -1,7 +1,9 @@
 Commit 1
 
 Added .gitignore
+
+
+
+
+
 Adding lines in the main branch
-
-
-Added lines in feat1 when new branch was created
