@@ -2,8 +2,7 @@ Commit 1
 
 Added .gitignore
 
-
-
-
+Filling the spaces
+adding lines
 
 Adding lines in the main branch
