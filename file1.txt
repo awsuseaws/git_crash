@@ -1,3 +1,9 @@
 Commit 1
 
 Added .gitignore
+
+
+
+
+
+Adding lines in the main branch
