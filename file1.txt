@@ -1,4 +1,3 @@
 Commit 1
 
-Added .gitignorelog
-some files added to master branch file1.txt
+Added .gitignore
